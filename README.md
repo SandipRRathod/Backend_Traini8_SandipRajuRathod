@@ -1,5 +1,3 @@
-# Backend_Traini8_SandipRajuRathod
-
 # GovTrainingHub Backend Project
 
 ## Setup Instructions
