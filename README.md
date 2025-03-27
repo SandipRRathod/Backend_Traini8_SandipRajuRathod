@@ -8,6 +8,7 @@
 
 - Java 17 or later
 - Maven
+- Lombook
 - MySQL
 - Postman (for API testing)
 - IDE (STS (Recommended), IntelliJ IDEA, Eclipse, or VS Code)
